@@ -81,10 +81,18 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Status |
+| Project | Description | Category & Tech Stack | Status |
 |---|---|---|---|
 | 🌙 **[Arabic Verse](https://github.com/sparkx313/arabic-verse)** | AI-Powered Spoken Arabic Dialect Simulation & Learning Platform | `Node.js` `Express` `SQLite` `OpenAI` `Glassmorphism` | 🟢 Active |
-| 🤖 **[AI Learning Platform](https://github.com/sparkx313/ai-learning-platform)** | Interactive dashboard with real-time analytics & conversational AI | `JavaScript` `HTML5` `CSS3` `REST API` | 🟢 Active |
+| 🧠 **[200 Data Science Projects](https://github.com/sparkx313/data-science-200-projects)** | Master directory of 200 structured projects across 8 AI/ML domains | `Python` `Pandas` `Scikit-Learn` `PyTorch` `XGBoost` | 🟢 Active |
+| 🤖 **[RAG Knowledge Assistant](https://github.com/sparkx313/ai-rag-knowledge-assistant)** | Retrieval-Augmented Generation chatbot over private knowledge bases | `LangChain` `ChromaDB` `Streamlit` `OpenAI` | 🟢 Active |
+| 🛡️ **[Cybersecurity Port Scanner](https://github.com/sparkx313/cybersecurity-port-scanner)** | Multi-threaded TCP/UDP Port Scanner & Banner Grabber | `Python` `Sockets` `Networking` `Security` | 🟢 Active |
+| 👁️ **[YOLOv8 Object Detection UI](https://github.com/sparkx313/dl-yolov8-object-detection-ui)** | Real-time object detection web app over video & webcam feeds | `YOLOv8` `PyTorch` `Streamlit` `OpenCV` | 🟢 Active |
+| 📊 **[Customer Churn Predictor](https://github.com/sparkx313/ml-customer-churn-prediction-system)** | End-to-end churn classification engine with API & Docker service | `XGBoost` `FastAPI` `Docker` `Scikit-Learn` | 🟢 Active |
+| 💳 **[Credit Risk Scoring Engine](https://github.com/sparkx313/ml-credit-scoring-engine)** | Explainable AI financial credit rating model with SHAP analysis | `Scikit-Learn` `SHAP` `Pandas` `XAI` | 🟢 Active |
+| ⚡ **[FastAPI Model Serving](https://github.com/sparkx313/mlops-fastapi-model-serving)** | Production-ready asynchronous MLOps model serving architecture | `FastAPI` `Pydantic` `Uvicorn` `MLOps` | 🟢 Active |
+| 📡 **[Packet Sniffer Inspector](https://github.com/sparkx313/cybersecurity-packet-sniffer)** | Network traffic sniffer decoding IP, TCP, and UDP transport layers | `Python` `Scapy` `Raw Sockets` `Network Security` | 🟢 Active |
+| ✨ **[Web Portfolio Sanctuary](https://github.com/sparkx313/portfolio-web)** | Interactive WebGL particle portfolio with 3D Tilt cards & glassmorphism | `React` `Vite` `TailwindCSS` `Framer Motion` | 🟢 Active |
 
 ---
 
